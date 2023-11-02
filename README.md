@@ -1,3 +1,3 @@
-# Valorant-Visualizations-and-Analysis
-All my work related to the game VALORANT
+# Val-Viz
+An esports analysis made using visualizations and data sets using python and its libraries.
 
